@@ -1,6 +1,6 @@
 # iTerm2-theme-desaturated
 
-A port of my vscode Desatured theme to iTerm2
+A port of my vscode Night Shift (Desatured) theme to iTerm2
 
 ## Preview
 
